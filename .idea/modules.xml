@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GeoData/GeoData-master.iml" filepath="$PROJECT_DIR$/../GeoData/GeoData-master.iml" />
+      <module fileurl="file://C:\Users\arqdsis\Desktop\GeoData-master\GeoData.iml" filepath="C:\Users\arqdsis\Desktop\GeoData-master\GeoData.iml" />
+      <module fileurl="file://C:\Users\arqdsis\Desktop\GeoData-master\app\app.iml" filepath="C:\Users\arqdsis\Desktop\GeoData-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
